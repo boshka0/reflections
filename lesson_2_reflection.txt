@@ -5,3 +5,9 @@ I need this in order to use Git version control.
 It gives you an idea of a "cloud", where files are stored in-between the git repository itself and your
 working directory. It gives you an opportunity to add files aka in your backpack and then pull them in your git repo
 with a commit.
+3.How can you use the staging area to make sure you have one commit per logical change?
+I can get use of git diff to see what changes I've made and wheather this changes are
+logically connected. In order to only make one commit per logical change.
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches can be really helpful with different versions of the file, so you can be free experimenting with
+your project and don't bother with that git checkout to the previous commit to catch the bug.
