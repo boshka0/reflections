@@ -1,0 +1,28 @@
+1.How did viewing a diff between two versions of a file help you see the bug that was introduced?
+You can keep track of all changes done and that gives
+you an opportunity to undone some changes(BUGS) for the things
+to work properly again.
+2.How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+That way I will be able to see how I fix some things in order to use it in
+my other projects or just refresh in memory what was the way I fixed that bugs
+or issues in my project.
+3.What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros: 1) all commits are logically organised;
+2) I can easily navigate through the history to find the particular change.
+Cons: 1) I can lose all changes I've been working on, if not save;
+2) I should bother and do it manually.
+4.Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+Maybe that happens cause Git was designed with an idea of code version-control, when
+one project we are working on has multiple files, cause they are connected and a change in one file
+is likely to cause a change in another file, it's vital to see them change together, not just separately.
+5.How can you use the commands git log and git diff to view the history of files?
+I can use git log in order to see all the previous commits that have been made.
+And git diff is for seeing the difference between two commits (deletions and insertions made).
+6.How might using version control make you more confident to make changes that could break something?
+First, it makes the fear of losing something really important go away. You are always sure of the
+possibility to make everything go back and return to the previous "unbugged" state.
+7.Now that you have your workspace set up, what do you want to try using Git for?
+First I want to use it for tracking all changes I make to my projects and to learn how
+to collaborate with other people, who work on the same project as me.
