@@ -2,3 +2,6 @@
 I would definitely do so if I have to work in collaboration with other people, in that case they 
 will have an ability to contribute to the project and to clone a remote repo on their computer
 in order to work with it.
+2.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+That makes sence if I don't want this changes to interfere with my current working flow, maybe there will
+arise some kind of issues and I don't want them to.
