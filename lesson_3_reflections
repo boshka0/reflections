@@ -11,3 +11,6 @@ the whole repo on your computer to work with it. Branches is just for commits it
 alternative path. I would definitely use fork if I wanted to contribute to some kind of an open-source project.
 I would use clone if I worked with my team on the same project. And branches are just for experiments and for creating
 different versions.
+4.What is the benefit of having a copy of the last known state of the remote stored locally?
+So in this case we will know exactly what changes were introduced. This way you keep yourself
+up to date with the changes from other people.
